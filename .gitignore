@@ -1,0 +1,11 @@
+.vscode
+*.pyc
+/media/
+/static/
+general.log
+celerybeat-schedule.bak
+celerybeat-schedule.dat
+celerybeat-schedule.dir
+Pipfile.lock
+.pytest_cache
+.DS_Store
